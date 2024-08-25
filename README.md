@@ -19,11 +19,11 @@ This research investigates the potential of machine learning models in predictin
 
 We used 4 models here and following are the AUC scores obtained by each model:
 
-CatBoost - 0.7535
+    CatBoost - 0.7535
 
-LightGBM - 0.7632
+    LightGBM - 0.7632
 
-XGBoost - 0.7454
+    XGBoost - 0.7454
 
-Ensemble - 0.7633
+    Ensemble - 0.7633
 
